@@ -1,14 +1,14 @@
 body {
-    background-color: #1B244A;
+    background-color: #0c377d;
     margin: 0;
-    font-family: 'Cursed Timer ULiL'
 }
 
 .container {
     display: flex;
     justify-content: space-around;
 }
-h3{
+#home-el{
+    position: absolute;
 width: 149px;
 height: 36px;
 left: 85px;
@@ -20,36 +20,35 @@ font-size: 40px;
 line-height: 36px;
 text-align: center;
 color: #EEEEEE;
-margin-left: 85px;
-margin-top: 68px;
 }
 #result-el{
+position: absolute;
 width: 117px;
 height: 120px;
 left: 100px;
 top: 125px;
+font-family: 'Cursed Timer ULiL';
 font-style: normal;
 font-weight: 400;
 font-size: 90px;
 line-height: 127px;
 text-align: center;
 color: #F94F6D;
+background: position absolute;
+width: 155px;
+height: 120px;
 left: 82px;
 top: 125px;
 background: #080001;
 border-radius: 5px;
-padding-left: 18px;
-padding-right: 20px;
-margin-top: 21px;
-margin-left: 82px;
-margin-bottom: 26px;
 }
 button{
+position: absolute;
 width: 30px;
 height: 25.77px;
 left: 89px;
 top: 280px;
-font-family: "Cursed Timer ULiL", sans-serif;
+font-family: 'Cursed Timer ULiL';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -59,20 +58,18 @@ color: #9AABD8;
 margin-top: 85px;
 background: none;
 border: none;
+box-decoration-break: box-sizing border-box;
+position: absolute;
 width: 45px;
 height: 45px;
 left: 82px;
 top: 271px;
 border: 2px solid #9AABD8;
-border-radius: 5px;
-margin-top: 26px
-}
-#button1{
-    margin-left: 82px
+border-radius: 5px
 }
 #button2{
-    margin-left: 9px;
-    margin-right: 9px;
+margin-left: 55px
 }
 #button3{
+    margin-left: 110px
 }
