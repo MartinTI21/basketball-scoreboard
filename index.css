@@ -68,11 +68,62 @@ border-radius: 5px;
 margin-top: 26px
 }
 #button1{
-    margin-left: 82px
+    margin-left: 75px
 }
 #button2{
     margin-left: 9px;
     margin-right: 9px;
 }
 #button3{
+}
+#guest-el{
+width: 149px;
+height: 36px;
+left: 340px;
+top: 68px;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+text-align: center;
+color: #EEEEEE;
+margin-right: 86px;
+margin-left: 106px;
+}
+#guest-result-el{
+margin-top: 21px;
+margin-left: 100px;
+width: 117px;
+height: 120px;
+left: 355px;
+top: 125px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+text-align: center;
+color: #F94F6D;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+background: #080001;
+border-radius: 5px;
+margin-bottom: 26px;
+}
+#button4{
+    margin-left: 95px;
+    
+}
+#button5{
+    margin-right: 8px;
+    margin-left: 8px;
+}
+#button7{
+    margin-top: 46px;
+    position: absolute;
+    width: 110px;
+    margin-left: 325px
 }
