@@ -114,16 +114,14 @@ border-radius: 5px;
 margin-bottom: 26px;
 }
 #button4{
-    margin-left: 95px;
-    
+    margin-left: 95px
 }
 #button5{
     margin-right: 8px;
     margin-left: 8px;
 }
 #button7{
-    margin-top: 46px;
-    position: absolute;
-    width: 110px;
-    margin-left: 325px
+    width: 120px;
+    margin-left: 50%;
+    margin-top: 150%
 }
