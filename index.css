@@ -65,7 +65,8 @@ left: 82px;
 top: 271px;
 border: 2px solid #9AABD8;
 border-radius: 5px;
-margin-top: 26px
+margin-top: 26px;
+cursor: pointer
 }
 #button1{
     margin-left: 75px
